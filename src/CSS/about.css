@@ -205,7 +205,7 @@ btn-group>.btn-group:not(:first-child)>.btn,
 }
 .about-us-cover-section::before{
     content: "";
-    background: url('../Images/aboutus-cover-photo.png') no-repeat center center/cover; 
+    background: url('../Images/Aboutus-cover-photo.png') no-repeat center center/cover; 
     position: absolute;
     left: 1.5%;
     width: 97%;

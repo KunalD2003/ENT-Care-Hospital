@@ -115,7 +115,7 @@ btn-group>.btn-group:not(:first-child)>.btn,
 }
 .doctor-cover-section::before{
     content: "";
-    background: url('../Images/doctors-cover-image.png') no-repeat center center/cover; 
+    background: url('../Images/Doctors-cover-image.png') no-repeat center center/cover; 
     position: absolute;
     left: 1.5%;
     width: 97%;
